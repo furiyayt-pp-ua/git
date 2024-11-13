@@ -1,2 +1,2 @@
 # git
-https://github.com/furiyayt-pp-ua
+Github - https://github.com/furiyayt-pp-ua
